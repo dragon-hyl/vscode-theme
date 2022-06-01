@@ -1,0 +1,21 @@
+{
+    "name": "dark-theme-vs",
+    "displayName": "dark-theme-vs",
+    "description": "This is a better theme for developers.I believe that you will like it if you install it.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hylong-dark-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hylong-dark-theme-color-theme.json"
+            }
+        ]
+    }
+}
