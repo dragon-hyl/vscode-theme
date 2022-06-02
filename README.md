@@ -14,7 +14,7 @@
 
 ## hylong-dark-theme
 
-![dark_01](https://gitee.com/tom-bulipper/vscode-theme-images/master/dark_01.png)
+![dark_01](./images/dark_01.png)
 
 ![dark_02](./images/dark_02.png)
 
