@@ -16,12 +16,12 @@
 
 ![dark_01](https://github.com/dragon-hyl/vscode-theme/blob/main/images/dark_01.png)
 
-![dark_02](https://github.com/dragon-hyl/vscode-theme/raw/main/images/dark_02.png)
+![dark_02](https://github.com/dragon-hyl/vscode-theme/blob/main/images/dark_02.png)
 
 ## hylong-dark-light-theme
 
-![light_01](./images/light_01.png)
+![light_01](https://github.com/dragon-hyl/vscode-theme/blob/main/images/light_01.png)
 
-![light_02](./images/light_02.png)
+![light_02](https://github.com/dragon-hyl/vscode-theme/blob/main/images/light_02.png)
 
 **enjoy**
