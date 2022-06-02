@@ -14,9 +14,9 @@
 
 ## hylong-dark-theme
 
-![dark_01](./images/dark_01.png)
+![dark_01](https://github.com/dragon-hyl/vscode-theme/raw/main/images/dark_01.png)
 
-![dark_02](./images/dark_02.png)
+![dark_02](https://github.com/dragon-hyl/vscode-theme/raw/main/images/dark_02.png)
 
 ## hylong-dark-light-theme
 
