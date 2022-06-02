@@ -1,13 +1,27 @@
-# README
-## This is the README for your extension "dark-theme-vs"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Theme of hylong
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## welcome to my first vscode plugin !
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## You will write code more happily when you see the color of theme.
 
-**Enjoy!**
+## Tips: 
+
+~~~json
+"editor.fontSize": 18,
+"editor.lineHeight": 36,
+"editor.fontFamily": "Operator Mono Medium,'Fira Code Retina','JetBrains Mono'",
+~~~
+
+## hylong-dark-theme
+
+![image-20220601172535201](./images/dark_01.png)
+
+![image-20220601172700746](./images/dark_02.png)
+
+## hylong-dark-light-theme
+
+![image-20220601172828112](./images/light_01.png)
+
+![image-20220601172849354](./images/light_02.png)
+
+**enjoy**
