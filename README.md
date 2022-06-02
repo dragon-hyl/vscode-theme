@@ -14,14 +14,14 @@
 
 ## hylong-dark-theme
 
-![](./images/dark_01.png)
+![Image Text](https://github.com/dragon-hyl/vscode-theme/raw/main/images/dark_01.png)
 
-![](./images/dark_02.png)
+![Image Text](./images/dark_02.png)
 
 ## hylong-dark-light-theme
 
-![](./images/light_01.png)
+![Image Text](./images/light_01.png)
 
-![](./images/light_02.png)
+![Image Text](./images/light_02.png)
 
 **enjoy**
