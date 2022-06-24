@@ -18,10 +18,4 @@
 
 ![dark_02](https://github.com/dragon-hyl/vscode-theme/blob/main/images/dark_02.png)
 
-## hylong-dark-light-theme
-
-![light_01](https://github.com/dragon-hyl/vscode-theme/blob/main/images/light_01.png)
-
-![light_02](https://github.com/dragon-hyl/vscode-theme/blob/main/images/light_02.png)
-
 **enjoy**
