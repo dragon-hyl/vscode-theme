@@ -21,11 +21,6 @@
         "label": "hylong-dark-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/hylong-dark-theme-color-theme.json"
-      },
-      {
-        "label": "hylong-dark-light-theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/hylong-dark-light-theme-color-theme.json"
       }
     ]
   }
