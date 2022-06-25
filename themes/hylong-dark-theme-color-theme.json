@@ -144,14 +144,14 @@
       "name": "deleted.diff",
       "scope": "markup.deleted.diff",
       "settings": {
-        "foreground": "#F8506C"
+        "foreground": "#ff4579"
       }
     },
     {
       "name": "c++ function",
       "scope": "meta.function.c",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -221,7 +221,7 @@
       "name": "java modifier.import",
       "scope": "source.java",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -249,7 +249,7 @@
       "name": "java variable.name",
       "scope": "meta.definition.variable.name.java",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -305,7 +305,7 @@
       "name": "js/ts template-expression",
       "scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -319,7 +319,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -345,7 +345,7 @@
       "name": "js/ts console",
       "scope": "support.type.object.console",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -380,7 +380,7 @@
       "name": "js dom variable",
       "scope": "support.variable.dom,support.variable.property.dom",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -506,7 +506,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -639,7 +639,7 @@
       "name": "Support type",
       "scope": "support.type.property-name",
       "settings": {
-        "foreground": "#80CBC4"
+        "foreground": "#00d0ea"
       }
     },
     {
@@ -716,7 +716,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -759,7 +759,7 @@
       "scope": "markup.heading",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -809,14 +809,14 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -851,7 +851,7 @@
       "name": "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
       "scope": "beginning.punctuation.definition.list.markdown",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -957,14 +957,14 @@
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -985,14 +985,14 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -1111,7 +1111,7 @@
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -1188,7 +1188,7 @@
       "name": "sass selector",
       "scope": "selector.sass",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -1224,7 +1224,7 @@
       "name": "cs local variable",
       "scope": "entity.name.variable.local.cs",
       "settings": {
-        "foreground": "#f8506c"
+        "foreground": "#ff4579"
       }
     },
     {
