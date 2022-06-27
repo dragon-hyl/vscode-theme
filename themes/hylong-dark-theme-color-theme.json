@@ -107,8 +107,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#4CAE4C",
-        "fontStyle": "italic"
+        "foreground": "#4CAE4C"
       }
     },
     {
